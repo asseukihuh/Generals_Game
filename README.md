@@ -1,4 +1,4 @@
-# ℹ️ Game version :  Beta 0.01
+# ℹ️ Game version :  Beta 0.1
 
 
 ## 🧠 Generals - The Game | ENG |
